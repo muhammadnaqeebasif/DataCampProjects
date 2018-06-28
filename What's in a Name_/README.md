@@ -1,0 +1,2 @@
+# What's in a Name_
+In this project, you will explore the baby names dataset compiled by the Social Security Administration. The data (name, year of birth, sex and number) are from a 100 percent sample of Social Security card applications after 1879. This dataset is a minehouse and contains lots of interesting stories to explore. In this project, you will explore some of these interesting stories around trendiness in names, and estimating a person's age from their name.
