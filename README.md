@@ -7,3 +7,4 @@ The repository contains the following projects:
 * ```What's in a Name_``` This project explores baby names data to come up with interesting insights.
 * ```Dr. Semmelweis and the discovery of handwashing``` Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing.
 * ```Exploring the Bitcoin cryptocurrency market``` In this project the market capitalization of Bitcoin and other cryptocurrencies are explored.
+* ```A Network analysis of Game of Thrones```In this project the network of characters in Game of Thrones is anlayzed.
